@@ -1,8 +1,8 @@
-# proyecto-2o-parcial
-clase desarrollo web
+# 2nd Midterm Project
+Web Dev Class exercises
 
-Dirección instancia: http://52.32.39.1
+Address: http://52.32.39.1
 
-Dirección para verificar modificaciónd de DB: http://52.32.39.1/read.php
+DB modification verification Address: http://52.32.39.1/read.php
 
-Proyecto de Jorge Garcés G.A.
+Jorge Garcés' Project
